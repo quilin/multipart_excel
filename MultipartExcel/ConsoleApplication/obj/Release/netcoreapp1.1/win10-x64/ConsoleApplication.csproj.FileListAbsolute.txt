@@ -1,0 +1,13 @@
+D:\test\multipart_excel\MultipartExcel\ConsoleApplication\bin\Release\netcoreapp1.1\win10-x64\hostpolicy.dll
+D:\test\multipart_excel\MultipartExcel\ConsoleApplication\bin\Release\netcoreapp1.1\win10-x64\hostfxr.dll
+D:\test\multipart_excel\MultipartExcel\ConsoleApplication\bin\Release\netcoreapp1.1\win10-x64\MultipartExcel.exe
+D:\test\multipart_excel\MultipartExcel\ConsoleApplication\bin\Release\netcoreapp1.1\win10-x64\MultipartExcel.deps.json
+D:\test\multipart_excel\MultipartExcel\ConsoleApplication\bin\Release\netcoreapp1.1\win10-x64\MultipartExcel.runtimeconfig.json
+D:\test\multipart_excel\MultipartExcel\ConsoleApplication\bin\Release\netcoreapp1.1\win10-x64\MultipartExcel.runtimeconfig.dev.json
+D:\test\multipart_excel\MultipartExcel\ConsoleApplication\bin\Release\netcoreapp1.1\win10-x64\MultipartExcel.dll
+D:\test\multipart_excel\MultipartExcel\ConsoleApplication\bin\Release\netcoreapp1.1\win10-x64\MultipartExcel.pdb
+D:\test\multipart_excel\MultipartExcel\ConsoleApplication\obj\Release\netcoreapp1.1\win10-x64\ConsoleApplication.csproj.CoreCompileInputs.cache
+D:\test\multipart_excel\MultipartExcel\ConsoleApplication\obj\Release\netcoreapp1.1\win10-x64\ConsoleApplication.AssemblyInfoInputs.cache
+D:\test\multipart_excel\MultipartExcel\ConsoleApplication\obj\Release\netcoreapp1.1\win10-x64\ConsoleApplication.AssemblyInfo.cs
+D:\test\multipart_excel\MultipartExcel\ConsoleApplication\obj\Release\netcoreapp1.1\win10-x64\MultipartExcel.dll
+D:\test\multipart_excel\MultipartExcel\ConsoleApplication\obj\Release\netcoreapp1.1\win10-x64\MultipartExcel.pdb

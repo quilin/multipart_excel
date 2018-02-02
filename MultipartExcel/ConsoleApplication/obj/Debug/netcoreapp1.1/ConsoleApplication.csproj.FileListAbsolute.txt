@@ -1,0 +1,10 @@
+D:\test\multipart_excel\MultipartExcel\ConsoleApplication\bin\Debug\netcoreapp1.1\MultipartExcel.deps.json
+D:\test\multipart_excel\MultipartExcel\ConsoleApplication\bin\Debug\netcoreapp1.1\MultipartExcel.runtimeconfig.json
+D:\test\multipart_excel\MultipartExcel\ConsoleApplication\bin\Debug\netcoreapp1.1\MultipartExcel.runtimeconfig.dev.json
+D:\test\multipart_excel\MultipartExcel\ConsoleApplication\bin\Debug\netcoreapp1.1\MultipartExcel.dll
+D:\test\multipart_excel\MultipartExcel\ConsoleApplication\bin\Debug\netcoreapp1.1\MultipartExcel.pdb
+D:\test\multipart_excel\MultipartExcel\ConsoleApplication\obj\Debug\netcoreapp1.1\ConsoleApplication.csproj.CoreCompileInputs.cache
+D:\test\multipart_excel\MultipartExcel\ConsoleApplication\obj\Debug\netcoreapp1.1\ConsoleApplication.AssemblyInfoInputs.cache
+D:\test\multipart_excel\MultipartExcel\ConsoleApplication\obj\Debug\netcoreapp1.1\ConsoleApplication.AssemblyInfo.cs
+D:\test\multipart_excel\MultipartExcel\ConsoleApplication\obj\Debug\netcoreapp1.1\MultipartExcel.dll
+D:\test\multipart_excel\MultipartExcel\ConsoleApplication\obj\Debug\netcoreapp1.1\MultipartExcel.pdb

@@ -1,13 +1,15 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace ConsoleApplication
+namespace MultipartExcel
 {
     public static class DataProvider
     {
+        public const int ChunkSize = 500000;
+
         public static IEnumerable<TestData> CreateTestDataChunk()
         {
-            for (var i = 0; i < 1000; i++)
+            for (var i = 0; i < ChunkSize; i++)
             {
                 yield return new TestData
                 {
