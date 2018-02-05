@@ -166,16 +166,14 @@ namespace MultipartExcel
             }
 
             watch.Stop();
-            Console.WriteLine($"Export done. Exported {chunksCount} with {DataProvider.ChunkSize} entities each.");
-            Console.WriteLine($"Elapsed: {watch.ElapsedMilliseconds}");
-            Console.WriteLine();
-            Console.WriteLine();
+            Console.WriteLine($"Export done. Exported {chunksCount} chunks with {DataProvider.ChunkSize} entities each.");
+            Console.WriteLine($"Elapsed: {watch.ElapsedMilliseconds}ms");
 
             watch.Restart();
             ZipFile.CreateFromDirectory(filePath, $"{filesPath}/{reportName}.xlsx");
-
             watch.Stop();
-            Console.WriteLine($"Compressing done. Elapsed: {watch.ElapsedMilliseconds}");
+
+            Console.WriteLine($"Compressing done. Elapsed: {watch.ElapsedMilliseconds}ms");
         }
     }
 }
